@@ -20,3 +20,30 @@
   align-items: center;
    
 }
+
+.content{
+  
+  width: 500px;
+  margin: 50px auto;
+  
+}
+
+.boton{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+   
+}
+
+.txt{
+  color: aliceblue;
+  font-size: 36px;
+  text-align:center;
+}
+
+.respuesta{
+  color: rgba(52, 53, 54, 0.527);
+  font-size: 19px;
+  text-align:center;
+  
+}
