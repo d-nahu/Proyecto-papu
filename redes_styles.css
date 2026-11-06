@@ -32,6 +32,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  
    
 }
 
@@ -42,7 +43,7 @@
 }
 
 .respuesta{
-  color: rgba(52, 53, 54, 0.527);
+  color: rgba(239, 245, 223, 0.932);
   font-size: 19px;
   text-align:center;
   

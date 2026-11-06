@@ -1,6 +1,6 @@
 
-function Reemplazo(texto1,texto2){
+function Reemplazo(rt1,rt2){
 
-    document.getElementById(texto2).innerText=texto1
+    document.getElementById(rt2).innerText=rt1
 
 }
